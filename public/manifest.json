@@ -1,0 +1,22 @@
+{
+  "name": "H30 App",
+  "short_name": "H30",
+  "description": "H30 B2B App",
+  "lang": "es-ES",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#f7811d",
+  "background_color" : "#f7811d",
+  "icons": [
+    {
+      "src": "img/icon-h30.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }, {
+      "src": "img/logo-h30-med.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

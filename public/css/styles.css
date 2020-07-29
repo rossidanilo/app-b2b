@@ -1,0 +1,335 @@
+body {
+
+	background-color: #4c4c4c !important; 
+
+}
+
+
+table {
+
+	background-color: #ffffff;
+}
+
+a, .btn-link:hover, .btn-link:focus {
+
+	text-decoration: none !important;
+}
+
+#form-products {
+	
+	margin-bottom: 2%;
+
+}
+
+#product-card,
+.order-card {
+
+	cursor: pointer;
+
+}
+
+#input-quantity { 
+
+	width: 30%;
+
+ }
+
+ #title-alternatives {
+
+	background-color: #fff;
+	padding: 10px 20px;
+	margin-top: 5px;
+
+ }
+
+ .cart { 
+	
+	margin-top: 5px;
+
+  }
+
+ .cart a {
+
+	margin-bottom: 5px;
+
+ }
+
+ .cover {
+
+	color: #fff;
+
+ }
+
+ .search-result {
+
+	color: #fff;
+	font-style: italic;
+
+ }
+
+ .product-image-back img {
+
+	width: 50%;
+
+ }
+
+ .carousel-inner img {
+
+	margin: auto;
+	width: 20%;
+ }
+
+ .carousel-inner {
+
+	height: 250px;
+
+ }
+
+ #carouselExampleControls a {
+
+	color: #eaeaea;
+
+ }
+
+ .card-text button {
+	
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+ }
+
+ .btn-primary {
+
+	background-color: #f7811d !important;
+	border-color: #f7811d !important;
+
+ }
+
+  .btn-info {
+
+	background-color: #f7811d !important;
+	border-color: #f7811d !important;
+
+ }
+
+ .page-item.active .page-link {
+
+	background-color: #f7811d !important;
+	border-color: #f7811d !important;
+
+ }
+
+
+.nav-item .btn {
+
+	margin-right: 5px;
+
+}
+
+.filter-modal {
+
+	display: none;
+	background-color: #fff;
+
+}
+
+.filter-modal .btn-link {
+
+	color: #4c4c4c !important;	
+
+}
+
+
+.admin-menu {
+
+	margin-bottom: 10px;
+
+}
+
+.btn-link {
+
+	color: #4c4c4c !important;
+
+}
+
+#mobile-product-picture {
+
+	display: none;
+
+}
+
+.mobile-product-show-image {
+
+	display: none;
+
+}
+
+.carousel-indicators li {
+
+	background-color: #212529 !important;
+
+}
+
+.card {
+
+	border-radius: 0 !important;
+
+}
+
+#mobile-filter-results {
+
+	display: none;
+}
+
+#pagination { 
+
+	width: 90%;
+
+ }
+
+#pagination .page-link {
+
+	color: #4c4c4c !important;
+
+}
+
+#nav-bar-cart {
+
+	display: none;
+
+}
+
+.img-thumbnail {
+
+	border: 0px none !important;
+
+}
+
+@media only screen and (max-width: 767px){
+
+.btn {
+
+	margin-top: 5px;
+}
+
+#input-quantity { 
+
+	width: 100%;
+
+ }
+
+ .product-image-back {
+
+	width: 100% !important;
+
+ }
+
+ .carousel-inner img {
+
+	width: 50%;
+
+ }
+
+ .carousel-item {
+
+	height: 150px;
+
+ }
+
+#filter {
+
+	display: none;
+
+}
+
+.filter-modal {
+
+	display: block;
+
+}
+
+#desktop-product-picture {
+
+	display: none;
+
+}
+
+#mobile-product-picture {
+
+	display: block;
+
+}
+
+#product-data { 
+
+	text-align: left;
+
+ }
+
+ .mobile-product-show-image {
+
+	display: block;
+
+}
+
+.desktop-product-show-image {
+
+	display: none;
+
+}
+
+#mobile-filter-results {
+
+	display: block;
+	color: #fff;
+}
+
+#mobile-filter-results .btn-link {
+
+	color: #fff !important;
+}
+
+.navbar-toggler {
+
+	font-size: 1rem !important;
+	border: 0px none !important;
+
+}
+
+.navbar-brand {
+
+	margin-right: 0 !important;
+
+}
+
+#first-column-nav-bar,
+#nav-bar-cart {
+
+	width: 30%;
+	text-align: center;
+	margin-left: 0 !important;
+
+}
+
+#second-column-nav-bar {
+
+	width: 40%;
+	text-align: center !important;
+
+}
+
+#nav-bar-cart {
+
+	display: block;
+
+}
+
+#grid-nav-bar {
+	
+	margin-right: 0 !important;
+	margin-left: 0 !important;
+
+}
+
+
+}
